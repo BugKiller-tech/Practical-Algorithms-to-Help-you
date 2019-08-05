@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.pug": "pug",
+    "*.erb": "erb",
+    "algorithm": "cpp"
+  }
+}
